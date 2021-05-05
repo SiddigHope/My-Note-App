@@ -1,0 +1,81 @@
+Looking for git in: git
+Using git 2.25.1 from git
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.buckconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.eslintrc.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.flowconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.gitattributes' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.prettierrc.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/.watchmanconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/App' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/App.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/__tests__' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/android' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/app.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/assets' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/babel.config.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/index.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/ios' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/metro.config.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/node_modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/package-lock.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/react-native.config.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/yarn.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/media/siddig/windows/Apps/PhotoGalleryApp/~' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /media/siddig)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}

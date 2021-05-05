@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-hdpi_gallery.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-hdpi/gallery.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeselectmultiple_images_iconcheckboxchecked.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckboxchecked.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi_gallery.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-mdpi/gallery.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativethumbnailvideo_src_assets_play.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_dist_src_basic_icon_selection.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_dist_src_basic_icon_selection.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativethumbnailvideo_src_assets_play.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_gallery.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xxhdpi/gallery.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_gallery.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xhdpi/gallery.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_dist_src_basic_icon_nbicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_dist_src_basic_icon_nbicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativeselectmultiple_images_iconcheckbox.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeselectmultiple_images_iconcheckbox.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_gallery.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xxxhdpi/gallery.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativethumbnailvideo_src_assets_play.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_app_assets_gallerysplash.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/app_assets_gallerysplash.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    }
+]

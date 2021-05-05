@@ -1,0 +1,331 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.photogalleryapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:11:5-77
+11-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:11:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:5:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:6:5-80
+14-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:7:5-64
+15-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:7:22-62
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:8:5-70
+16-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:8:22-68
+17
+18    <uses-feature
+18-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:9:5-85
+19        android:name="android.hardware.camera"
+19-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:9:19-57
+20        android:required="false" />
+20-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:9:58-82
+21    <uses-feature
+21-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:10:5-91
+22        android:name="android.hardware.camera.front"
+22-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:10:19-63
+23        android:required="false" />
+23-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:10:64-88
+24
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:5:5-79
+25-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:5:22-77
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:6:5-80
+26-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:6:22-78
+27    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+27-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:14:5-88
+27-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:14:22-85
+28    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+28-->[com.facebook.flipper:flipper:0.54.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/2fa344e99fbc8cc928a5b46ed302cce1/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+28-->[com.facebook.flipper:flipper:0.54.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/2fa344e99fbc8cc928a5b46ed302cce1/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+29
+30    <uses-feature
+30-->[:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+31        android:name="android.hardware.camera.autofocus"
+31-->[:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+32        android:required="false" />
+32-->[:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+33
+34    <queries>
+34-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
+35        <intent>
+35-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:18
+36            <action android:name="android.media.action.IMAGE_CAPTURE" />
+36-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-73
+36-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:21-70
+37        </intent>
+38    </queries> <!-- Required to access Google Play Licensing -->
+39    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+39-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+39-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+40    <!--
+41         Required to keep CPU alive while downloading files
+42        (NOT to keep screen awake)
+43    -->
+44    <uses-permission android:name="android.permission.WAKE_LOCK" />
+44-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+44-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-65
+45    <!--
+46         Required to poll the state of the network connection
+47        and respond to changes
+48    -->
+49    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+49-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+49-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:22-76
+50
+51    <application
+51-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:16:5-80:15
+52        android:name="com.photogalleryapp.MainApplication"
+52-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:17:7-38
+53        android:allowBackup="false"
+53-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:21:7-34
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:24:18-86
+55        android:debuggable="true"
+56        android:icon="@mipmap/gallery"
+56-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:19:7-37
+57        android:label="@string/app_name"
+57-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:18:7-39
+58        android:requestLegacyExternalStorage="true"
+58-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:22:7-50
+59        android:roundIcon="@mipmap/gallery"
+59-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:20:7-42
+60        android:theme="@style/AppTheme"
+60-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:23:7-38
+61        android:usesCleartextTraffic="true" >
+61-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+62        <activity
+62-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:24:7-78:18
+63            android:name="com.photogalleryapp.MainActivity"
+63-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:25:9-37
+64            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+64-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:28:9-86
+65            android:label="@string/app_name"
+65-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:26:9-41
+66            android:launchMode="singleTask"
+66-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:29:9-40
+67            android:screenOrientation="portrait"
+67-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:27:9-45
+68            android:windowSoftInputMode="adjustResize" >
+68-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:30:9-51
+69            <intent-filter>
+69-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:31:9-35:25
+70                <action android:name="android.intent.action.MAIN" />
+70-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:32:13-65
+70-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:32:21-62
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:33:13-73
+72-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:33:23-70
+73
+74                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+74-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:34:13-77
+74-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:34:21-75
+75            </intent-filter>
+76            <intent-filter>
+76-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:36:10-45:27
+77                <action android:name="android.intent.action.VIEW" />
+77-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:37:15-67
+77-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:37:23-64
+78
+79                <category android:name="android.intent.category.DEFAULT" />
+79-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+79-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+80                <category android:name="android.intent.category.BROWSABLE" />
+80-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:39:15-76
+80-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:39:25-73
+81                <!-- TODO:  Add this filter, if you want support opening urls into your app -->
+82                <data
+82-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+83                    android:host="example.com"
+83-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:43:19-45
+84                    android:pathPrefix="/invite"
+84-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:44:19-47
+85                    android:scheme="https" />
+85-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:42:19-41
+86            </intent-filter>
+87
+88            <!-- TODO: Add this filter, if you want to support sharing text into your app -->
+89            <intent-filter>
+89-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:48:11-52:27
+90                <action android:name="android.intent.action.SEND" />
+90-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:15-67
+90-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:23-64
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+92-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+93
+94                <data android:mimeType="text/*" />
+94-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+95            </intent-filter>
+96
+97            <!-- TODO: Add this filter, if you want to support sharing images into your app -->
+98            <intent-filter>
+98-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:55:11-59:27
+99                <action android:name="android.intent.action.SEND" />
+99-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:15-67
+99-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:23-64
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+101-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+102
+103                <data android:mimeType="image/*" />
+103-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+104            </intent-filter>
+105            <intent-filter>
+105-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:61:11-65:27
+106                <action android:name="android.intent.action.SEND_MULTIPLE" />
+106-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:62:15-76
+106-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:62:23-73
+107
+108                <category android:name="android.intent.category.DEFAULT" />
+108-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+108-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+109
+110                <data android:mimeType="image/*" />
+110-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+111            </intent-filter>
+112
+113            <!-- TODO: Add this filter, if you want to support sharing videos into your app -->
+114            <intent-filter>
+114-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:68:11-72:27
+115                <action android:name="android.intent.action.SEND" />
+115-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:15-67
+115-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:23-64
+116
+117                <category android:name="android.intent.category.DEFAULT" />
+117-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+117-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+118
+119                <data android:mimeType="video/*" />
+119-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+120            </intent-filter>
+121            <intent-filter>
+121-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:73:11-77:27
+122                <action android:name="android.intent.action.SEND_MULTIPLE" />
+122-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:62:15-76
+122-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:62:23-73
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+124-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+125
+126                <data android:mimeType="video/*" />
+126-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+127            </intent-filter>
+128        </activity>
+129        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+129-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:79:7-84
+129-->/media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:79:17-81
+130
+131        <provider
+131-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-27:20
+132            android:name="androidx.core.content.FileProvider"
+132-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+133            android:authorities="com.photogalleryapp.provider"
+133-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-60
+134            android:exported="false"
+134-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+135            android:grantUriPermissions="true" >
+135-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-47
+136            <meta-data
+136-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+137                android:name="android.support.FILE_PROVIDER_PATHS"
+137-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+138                android:resource="@xml/provider_paths" />
+138-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+139        </provider>
+140
+141        <activity
+141-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-31:72
+142            android:name="com.yalantis.ucrop.UCropActivity"
+142-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
+143            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+143-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
+144
+145        <provider
+145-->[:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+146            android:name="com.imagepicker.FileProvider"
+146-->[:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+147            android:authorities="com.photogalleryapp.provider"
+147-->[:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+148            android:exported="false"
+148-->[:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+149            android:grantUriPermissions="true" >
+149-->[:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+150            <meta-data
+150-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+151                android:name="android.support.FILE_PROVIDER_PATHS"
+151-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+152                android:resource="@xml/provider_paths" />
+152-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+153        </provider>
+154        <provider
+154-->[:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+155            android:name="cl.json.RNShareFileProvider"
+155-->[:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-55
+156            android:authorities="com.photogalleryapp.rnshare.fileprovider"
+156-->[:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-72
+157            android:exported="false"
+157-->[:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+158            android:grantUriPermissions="true" >
+158-->[:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+159            <meta-data
+159-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+160                android:name="android.support.FILE_PROVIDER_PATHS"
+160-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+161                android:resource="@xml/share_download_paths" />
+161-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+162        </provider>
+163        <provider
+163-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+164            android:name="com.RNFetchBlob.Utils.FileProvider"
+164-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+165            android:authorities="com.photogalleryapp.provider"
+165-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+166            android:exported="false"
+166-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+167            android:grantUriPermissions="true" >
+167-->[:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+168            <meta-data
+168-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+169                android:name="android.support.FILE_PROVIDER_PATHS"
+169-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+170                android:resource="@xml/provider_paths" />
+170-->[:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+171        </provider>
+172
+173        <activity
+173-->[com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+174            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+174-->[com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+176            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+176-->[com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+177
+178        <meta-data
+178-->[com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+179            android:name="com.google.android.gms.version"
+179-->[com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+180            android:value="@integer/google_play_services_version" />
+180-->[com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+181    </application>
+182
+183</manifest>

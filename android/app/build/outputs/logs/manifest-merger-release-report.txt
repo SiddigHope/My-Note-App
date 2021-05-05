@@ -1,0 +1,545 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+MERGED from [:react-native-community_async-storage] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_cameraroll] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_image-editor] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/image-editor/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-receive-sharing-intent] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-receive-sharing-intent/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-vector-icons] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video-helper] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video-helper/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.63.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/9039e33500615c1ac50d1d4251b2d508/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/08e86a5f1c00dc4e2390ec58821e31ba/jetified-play-services-vision-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/7a7705d783a48d0333d440e0a8e27d8b/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/11fc5352a14e7e885240df3127b93f08/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/3fe6bd7ef1773ac2b2bf6d23a5d50e2f/jetified-play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/94d56057057d49f14c9699297e07ec7f/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/5ff390d898a2510c68dcfcddf29f2313/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/64510bfc53883d7f8053d3342b05f8f0/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e4e8626b1d17facb21a10f2e7082f0af/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/be2b7eac7ddae1ae0c56f9f0e73774ea/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /home/siddig/.gradle/caches/transforms-2/files-2.1/eba012192f65e553ae124d0b3eef1754/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /home/siddig/.gradle/caches/transforms-2/files-2.1/885892f22b2e4fca3ab72d3683cd3315/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/116c92be44f96604e1209df60e1d9ac4/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/b058cda32d7fc75b0153169eacbd0342/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7369cbb9bc172abde6add424bc327c7f/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/3cbdd9582ce9e971a165ee2aa51184e5/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/95f188ef250167e9c3907ed8bc4de8f0/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d518c36e3e541eb9a93415679ed12d73/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/8e24016ce37d7d1586b28a73b21df73a/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/0ddcaa9b60842bbf6fa7b161e34eab53/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/3678114ae006cdb8336f7700514c314f/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/82e32226770e7595a19887711df159fa/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/f871f92a263e155335c3689daf58b022/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/73f1e0ed924875f56b11ecb48d46736a/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/1dcbcec8fb42d0cb1ac5629912b30ae0/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/04fe1cf7606b90f9cb8df4b3bc2c0704/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/b49cb3f93573dfb8171d97333d9b0539/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/4b684755a92e15858e98f18a8ee8b947/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/23ae9862fd63953fe822263587f26450/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a12103609621d6476c67087988f446eb/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/592b6298ab2558351583203bd5502305/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/5376f3c10895a5502061b2ac8ed69848/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e08fbba4a0f462019aba9a0098567606/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a0facfeaf3f521670d3995f10fa386d1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/5dc53a54d78a2013e13ea7a87c8c8b79/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/9cbff826781ad1c387f53660899f1c2a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/24945afba3086c2eda6ad9500f689da1/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e02f8841bb4ca3346e6f3e1eaf68b059/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/de52477c0eb03bf70d6e1fe1ec844beb/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/149c98d3f9f084562a438cde40327e19/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/796eba4622e5a8778daab750247f3383/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/4174bdeb50db28d1c6b035379845b410/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/15acab26cd1f176207f34587624b9258/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a96dca018cd0761e0a07d018b0b4ea8b/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/22789a278b235dd7ebe2bfee64aeb811/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/61f845698b9acdf07921b104d66b6f28/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/bcbea9d98743def5fc0cf67ce3d1fa88/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/da05685ec2533a4b02e4ce355ca1449e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/458c91cb1d241c1aa9039fb976bb2cf6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/76843626636a359b879ca8334f0b7b01/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/412371994b64770a9390eff8ca2df5a5/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/195dc3b275d59c1d6892b7737945d667/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/bbe7fcb5e4054c22b2ef5ae90372ea5d/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7c9fd3ba690abcfb93720c866c223859/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/21477de0a77ec282f4c5b49bc1eaabf5/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/9a86eb85674ec9ce8d1b3a259725518b/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+	package
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:1-82:12
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-80
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-81
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:7:5-64
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:8:22-68
+uses-feature#android.hardware.camera
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:9:5-85
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:9:58-82
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:10:5-91
+	android:required
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:10:64-88
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:10:19-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:14:22-85
+application
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:16:5-80:15
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.63.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/9039e33500615c1ac50d1d4251b2d508/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/9039e33500615c1ac50d1d4251b2d508/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/08e86a5f1c00dc4e2390ec58821e31ba/jetified-play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/08e86a5f1c00dc4e2390ec58821e31ba/jetified-play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/7a7705d783a48d0333d440e0a8e27d8b/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/7a7705d783a48d0333d440e0a8e27d8b/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/11fc5352a14e7e885240df3127b93f08/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/11fc5352a14e7e885240df3127b93f08/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/94d56057057d49f14c9699297e07ec7f/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/94d56057057d49f14c9699297e07ec7f/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/5ff390d898a2510c68dcfcddf29f2313/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/5ff390d898a2510c68dcfcddf29f2313/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/116c92be44f96604e1209df60e1d9ac4/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/116c92be44f96604e1209df60e1d9ac4/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/82e32226770e7595a19887711df159fa/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/82e32226770e7595a19887711df159fa/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/15acab26cd1f176207f34587624b9258/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/15acab26cd1f176207f34587624b9258/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:22:7-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:18:7-39
+	android:roundIcon
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:20:7-42
+	android:icon
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:19:7-37
+	android:allowBackup
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:21:7-34
+	android:theme
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:23:7-38
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:17:7-38
+activity#com.photogalleryapp.MainActivity
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:24:7-78:18
+	android:screenOrientation
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:26:9-41
+	android:launchMode
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:29:9-40
+	android:windowSoftInputMode
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:30:9-51
+	android:configChanges
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:28:9-86
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:25:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:31:9-35:25
+action#android.intent.action.MAIN
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:32:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:33:13-73
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:33:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:34:13-77
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:34:21-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:example.com+data:pathPrefix:/invite+data:scheme:https
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:36:10-45:27
+action#android.intent.action.VIEW
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:37:15-67
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:37:23-64
+category#android.intent.category.DEFAULT
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:15-74
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:38:25-71
+category#android.intent.category.BROWSABLE
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:39:15-76
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:39:25-73
+data
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:41:15-44:49
+	android:host
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:43:19-45
+	android:scheme
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:42:19-41
+	android:mimeType
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:51:21-46
+	android:pathPrefix
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:44:19-47
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/*
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:48:11-52:27
+action#android.intent.action.SEND
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:15-67
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:49:23-64
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:55:11-59:27
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:61:11-65:27
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:62:15-76
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:62:23-73
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:68:11-72:27
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:73:11-77:27
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:79:7-84
+	android:name
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml:79:17-81
+uses-sdk
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_async-storage] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_image-editor] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/image-editor/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_image-editor] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/image-editor/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-create-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-create-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-receive-sharing-intent] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-receive-sharing-intent/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-receive-sharing-intent] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-receive-sharing-intent/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video-helper] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video-helper/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video-helper] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video-helper/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video-thumbnail] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-video-thumbnail/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/9039e33500615c1ac50d1d4251b2d508/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/9039e33500615c1ac50d1d4251b2d508/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/08e86a5f1c00dc4e2390ec58821e31ba/jetified-play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/08e86a5f1c00dc4e2390ec58821e31ba/jetified-play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/7a7705d783a48d0333d440e0a8e27d8b/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/7a7705d783a48d0333d440e0a8e27d8b/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/11fc5352a14e7e885240df3127b93f08/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/11fc5352a14e7e885240df3127b93f08/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/3fe6bd7ef1773ac2b2bf6d23a5d50e2f/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/3fe6bd7ef1773ac2b2bf6d23a5d50e2f/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/94d56057057d49f14c9699297e07ec7f/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/94d56057057d49f14c9699297e07ec7f/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/5ff390d898a2510c68dcfcddf29f2313/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/5ff390d898a2510c68dcfcddf29f2313/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/64510bfc53883d7f8053d3342b05f8f0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/64510bfc53883d7f8053d3342b05f8f0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e4e8626b1d17facb21a10f2e7082f0af/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e4e8626b1d17facb21a10f2e7082f0af/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/be2b7eac7ddae1ae0c56f9f0e73774ea/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/be2b7eac7ddae1ae0c56f9f0e73774ea/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /home/siddig/.gradle/caches/transforms-2/files-2.1/eba012192f65e553ae124d0b3eef1754/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/siddig/.gradle/caches/transforms-2/files-2.1/eba012192f65e553ae124d0b3eef1754/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /home/siddig/.gradle/caches/transforms-2/files-2.1/885892f22b2e4fca3ab72d3683cd3315/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /home/siddig/.gradle/caches/transforms-2/files-2.1/885892f22b2e4fca3ab72d3683cd3315/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/116c92be44f96604e1209df60e1d9ac4/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/116c92be44f96604e1209df60e1d9ac4/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/b058cda32d7fc75b0153169eacbd0342/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/b058cda32d7fc75b0153169eacbd0342/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7369cbb9bc172abde6add424bc327c7f/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7369cbb9bc172abde6add424bc327c7f/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/3cbdd9582ce9e971a165ee2aa51184e5/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/3cbdd9582ce9e971a165ee2aa51184e5/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/95f188ef250167e9c3907ed8bc4de8f0/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/95f188ef250167e9c3907ed8bc4de8f0/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d518c36e3e541eb9a93415679ed12d73/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d518c36e3e541eb9a93415679ed12d73/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/8e24016ce37d7d1586b28a73b21df73a/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/8e24016ce37d7d1586b28a73b21df73a/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/0ddcaa9b60842bbf6fa7b161e34eab53/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/0ddcaa9b60842bbf6fa7b161e34eab53/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/3678114ae006cdb8336f7700514c314f/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/3678114ae006cdb8336f7700514c314f/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/82e32226770e7595a19887711df159fa/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/82e32226770e7595a19887711df159fa/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/f871f92a263e155335c3689daf58b022/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/siddig/.gradle/caches/transforms-2/files-2.1/f871f92a263e155335c3689daf58b022/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/73f1e0ed924875f56b11ecb48d46736a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/73f1e0ed924875f56b11ecb48d46736a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/1dcbcec8fb42d0cb1ac5629912b30ae0/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/1dcbcec8fb42d0cb1ac5629912b30ae0/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/04fe1cf7606b90f9cb8df4b3bc2c0704/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/04fe1cf7606b90f9cb8df4b3bc2c0704/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/b49cb3f93573dfb8171d97333d9b0539/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/b49cb3f93573dfb8171d97333d9b0539/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/4b684755a92e15858e98f18a8ee8b947/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/4b684755a92e15858e98f18a8ee8b947/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/23ae9862fd63953fe822263587f26450/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/23ae9862fd63953fe822263587f26450/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a12103609621d6476c67087988f446eb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a12103609621d6476c67087988f446eb/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/592b6298ab2558351583203bd5502305/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/592b6298ab2558351583203bd5502305/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/5376f3c10895a5502061b2ac8ed69848/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/5376f3c10895a5502061b2ac8ed69848/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e08fbba4a0f462019aba9a0098567606/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e08fbba4a0f462019aba9a0098567606/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a0facfeaf3f521670d3995f10fa386d1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a0facfeaf3f521670d3995f10fa386d1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/5dc53a54d78a2013e13ea7a87c8c8b79/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/5dc53a54d78a2013e13ea7a87c8c8b79/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/9cbff826781ad1c387f53660899f1c2a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/9cbff826781ad1c387f53660899f1c2a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/24945afba3086c2eda6ad9500f689da1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/24945afba3086c2eda6ad9500f689da1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e02f8841bb4ca3346e6f3e1eaf68b059/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/e02f8841bb4ca3346e6f3e1eaf68b059/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/de52477c0eb03bf70d6e1fe1ec844beb/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/de52477c0eb03bf70d6e1fe1ec844beb/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/149c98d3f9f084562a438cde40327e19/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/149c98d3f9f084562a438cde40327e19/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7f5aeccd48d5bc731df0adf1c8d7029e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/796eba4622e5a8778daab750247f3383/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/796eba4622e5a8778daab750247f3383/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/4174bdeb50db28d1c6b035379845b410/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/4174bdeb50db28d1c6b035379845b410/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/15acab26cd1f176207f34587624b9258/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/15acab26cd1f176207f34587624b9258/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a96dca018cd0761e0a07d018b0b4ea8b/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/a96dca018cd0761e0a07d018b0b4ea8b/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/22789a278b235dd7ebe2bfee64aeb811/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/22789a278b235dd7ebe2bfee64aeb811/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/61f845698b9acdf07921b104d66b6f28/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/61f845698b9acdf07921b104d66b6f28/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/bcbea9d98743def5fc0cf67ce3d1fa88/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/bcbea9d98743def5fc0cf67ce3d1fa88/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/da05685ec2533a4b02e4ce355ca1449e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/da05685ec2533a4b02e4ce355ca1449e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/458c91cb1d241c1aa9039fb976bb2cf6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/458c91cb1d241c1aa9039fb976bb2cf6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/76843626636a359b879ca8334f0b7b01/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/76843626636a359b879ca8334f0b7b01/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/412371994b64770a9390eff8ca2df5a5/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/412371994b64770a9390eff8ca2df5a5/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/195dc3b275d59c1d6892b7737945d667/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/195dc3b275d59c1d6892b7737945d667/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/bbe7fcb5e4054c22b2ef5ae90372ea5d/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/bbe7fcb5e4054c22b2ef5ae90372ea5d/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7c9fd3ba690abcfb93720c866c223859/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/7c9fd3ba690abcfb93720c866c223859/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/21477de0a77ec282f4c5b49bc1eaabf5/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/siddig/.gradle/caches/transforms-2/files-2.1/21477de0a77ec282f4c5b49bc1eaabf5/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/9a86eb85674ec9ce8d1b3a259725518b/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/9a86eb85674ec9ce8d1b3a259725518b/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/siddig/windows/Apps/PhotoGalleryApp/android/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:15:9-57
+queries
+ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-14:15
+intent
+ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:21-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-60
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-56
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-share] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-55
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /media/siddig/windows/Apps/PhotoGalleryApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/siddig/.gradle/caches/transforms-2/files-2.1/ff950c9c2fc56f608d5f64aa8f395174/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/siddig/.gradle/caches/transforms-2/files-2.1/d49b3ab765f2c3f32d2d010f67502526/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
