@@ -21,10 +21,9 @@ buildscript {
 
 allprojects {
     repositories {
-        
         google()
-        jcenter()
         mavenLocal()
+        jcenter()
         maven {
             // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
             url("$rootDir/../node_modules/react-native/android")
@@ -39,5 +38,8 @@ allprojects {
 
         // ADD THIS
         maven { url 'https://www.jitpack.io' }
+
+        // this is react-native-video exoplater
+        maven { url "https://google.bintray.com/exoplayer" }
     }
 }
