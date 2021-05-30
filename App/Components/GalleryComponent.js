@@ -170,10 +170,9 @@ export default class GalleryComponent extends Component {
                                 ref={(ref) => {
                                     this.player = ref
                                 }}
-                                paused
-                                onLoad={() => {
-                                    this.player.seek(1000)
-                                }}
+                                repeat
+                                muted
+                                resizeMode="cover"
                                 // controls={true}
                                 style={{ flex: 1, height: width / 4, width: width / 4 }} />
                             <View style={{
